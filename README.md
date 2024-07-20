@@ -1,2 +1,1 @@
-# FuturWave
 # FutureWave
